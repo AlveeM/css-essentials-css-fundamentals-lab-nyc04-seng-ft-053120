@@ -7,6 +7,7 @@ body {
 #featured-property {
   width: 60%;
   margin: auto;
+  text-align: center;
 }
 
 #featured-property img {
@@ -16,7 +17,6 @@ body {
 
 #featured-property figcaption {
   font-size: 14px;
-  text-align: center;
 }
 
 #details {
