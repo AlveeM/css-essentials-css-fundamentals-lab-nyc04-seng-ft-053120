@@ -1,5 +1,10 @@
 body {
-  width: 100%;
+  width: 50%;
   height: 100%;
-  margin: 0;
+  margin: auto;
+  text-align: center;
+}
+
+img {
+  margin: auto;
 }
