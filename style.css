@@ -25,6 +25,7 @@ body {
 }
 
 #details {
+  background: red;
   width: 100%;
   display: block;
 }
