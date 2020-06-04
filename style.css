@@ -10,7 +10,7 @@ img {
   margin: auto;
 }
 
-#featured-property > p {
+#featured-property ~ p {
   width: 800px;
 }
 
